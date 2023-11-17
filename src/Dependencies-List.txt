@@ -1,0 +1,23 @@
+1)To install react-router-dom-v6
+  npm install react-router-dom@6
+
+2)To install Sass
+  npm install sass --save-dev  
+
+3)To install react-icons
+  npm i react-icons
+
+4)To install sweetalert 
+  npm i sweetalert
+
+5)To install lodash
+  npm i lodash
+
+6)To install RTK
+  npm i @reduxjs/toolkit
+
+7))To install react-redux(react binders)
+  npm i react-redux
+
+8)To install react-hook-form 
+  npm install react-hook-form
