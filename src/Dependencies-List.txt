@@ -10,8 +10,8 @@
 4)To install sweetalert 
   npm i sweetalert
 
-5)To install lodash
-  npm i lodash
+5)To install lodash.debounce
+  npm i lodash.debounce
 
 6)To install RTK
   npm i @reduxjs/toolkit
