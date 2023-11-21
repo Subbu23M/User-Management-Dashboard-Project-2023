@@ -4,20 +4,17 @@
 2)To install Sass
   npm install sass --save-dev  
 
-3)To install react-icons
-  npm i react-icons
-
-4)To install sweetalert 
+3)To install sweetalert 
   npm i sweetalert
 
-5)To install lodash.debounce
+4)To install lodash.debounce
   npm i lodash.debounce
 
-6)To install RTK
+5)To install RTK
   npm i @reduxjs/toolkit
 
-7))To install react-redux(react binders)
+6))To install react-redux(react binders)
   npm i react-redux
 
-8)To install react-hook-form 
+7)To install react-hook-form 
   npm install react-hook-form
