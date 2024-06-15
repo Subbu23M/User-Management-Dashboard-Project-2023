@@ -13,7 +13,7 @@
 5)To install RTK
   npm i @reduxjs/toolkit
 
-6))To install react-redux(react binders)
+6)To install react-redux(react binders)
   npm i react-redux
 
 7)To install react-hook-form 
